@@ -58,7 +58,7 @@ public class RoleChat extends JavaPlugin implements Listener {
             }
         }
 
-        // fallback na default, pokud role není v configu
+        // fallback to default if role is not in config
         if (!roleColors.containsKey(group)) {
             group = defaultGroup;
         }
