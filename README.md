@@ -1,2 +1,4 @@
 # RoleChat
-An CB 1.4.6 plugin that adds custom sub-nick to the chat
+
+RoleChat is a CraftBukkit plugin that adds **role-based chat formatting** using bPermissions.
+
