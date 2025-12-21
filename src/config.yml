@@ -1,0 +1,12 @@
+# RoleChat config
+chat-format: "&7[%group%] &f%player%: %message%"
+default-group: "default"
+
+# Colors by role
+role-colors:
+  admin: "&c"       # red
+  moderator: "&b"   # light blue
+  vip: "&6"         # gold
+  member: "&9"      # dark blue
+  default: "&7"     # gray
+
