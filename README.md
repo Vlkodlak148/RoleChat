@@ -1,8 +1,3 @@
-# RoleChat
-
-RoleChat is a CraftBukkit plugin that adds **role-based chat formatting** using bPermissions.
-
-
 # 📢 RoleChat
 
 **RoleChat** is a **CraftBukkit 1.4.6 plugin** that customizes chat messages based on player **roles/groups**. It allows server owners to assign colors and display roles in chat dynamically. Compatible with **bPermissions**.
