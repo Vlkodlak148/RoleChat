@@ -43,6 +43,7 @@ role-colors:
   member: "&9"      # dark blue
   default: "&7"     # gray
 
+```
 
 ---
 
